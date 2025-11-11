@@ -9,3 +9,5 @@
  #### structure-if-else.js
  #### structure-switch.js
 
+ ### 2. se crea el archivo practice.js y se analiza y estudia para resolver la tarea.
+
